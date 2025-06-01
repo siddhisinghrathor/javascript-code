@@ -1,0 +1,12 @@
+{
+  "name": "javascript-code",
+  "version": "1.0.0",
+  "description": "A curated collection of JavaScript code snippets and small utilities built to explore core language features, improve coding efficiency, and master fundamentals.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
